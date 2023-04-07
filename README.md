@@ -1,5 +1,9 @@
-### Hi there 👋
+# Hi, I'm Marcio!
 
+<div>
+<a href="https://instagram.com/marcio.g.desouza/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/marcioggonzaga/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
+</div>
 <!--
 **MarcioSouzaTI/MarcioSouzaTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
