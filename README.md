@@ -1,10 +1,12 @@
 # Hi, I'm Marcio!
 
 <div>
-  <a href="https://github.com/MarcioSouzaTI">
-  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api?username=MarcioSouzaTI&show_icons=true&theme=radical"/>
-  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioSouzaTI&layout=compact&langs_16&theme=radical"/> 
-  
+  <a href="https://github.com/MarcioSouzaTI/github-readme-stats">
+  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api?username=MarcioSouzaTI&repo=github-readme-stats"/>
+  </a>
+   <a href="https://github.com/MarcioSouzaTI/convoychat">
+  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioSouzaTI&repo=convoychat"/> 
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
