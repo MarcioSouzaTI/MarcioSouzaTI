@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/MarcioSouzaTI">
-  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api?username=MarcioSouzaTI"/>
+  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api?username=MarcioSouzaTI&show_icons=true&theme=highcontrast"/>
   </a>
    <a href="https://github.com/MarcioSouzaTI">
-  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioSouzaTI"/> 
+  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioSouzaTI&theme=highcontrast"/> 
   </a>
 </div>
   
