@@ -4,8 +4,8 @@
   <a href="https://github.com/MarcioSouzaTI">
   <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api?username=MarcioSouzaTI"/>
   </a>
-   <a href="https://github.com/MarcioSouzaTI/convoychat">
-  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioSouzaTI&repo=convoychat"/> 
+   <a href="https://github.com/MarcioSouzaTI">
+  <img aling="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioSouzaTI"/> 
   </a>
 </div>
   
